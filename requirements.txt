@@ -1,0 +1,5 @@
+google-generativeai
+openpyxl
+requests
+python-dotenv
+PyMuPDF
